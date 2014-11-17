@@ -1,0 +1,17 @@
+05974d7458246e0b3b1bba0ea8138370 *DESCRIPTION
+d33785794b10a1075d07eaf42478b6ba *NAMESPACE
+d3735e24565dee4d0402c903003e0f7f *R/db.r
+500bd3303f4bd62929eb40cfd478e5e3 *R/queries.r
+9ebece0dad4a7ee91b9ce97a12c04e26 *inst/extdata/chinook.sqlite
+0ac3febbb0fd24af6c33d1d11e34cb93 *inst/extdata/mysql.json
+c91d4c1011b5b86f2dc2e028bf18b801 *inst/extdata/postgres.json
+82c22eca3be82f83fd1cc0cfd934fbe3 *inst/extdata/redshift.json
+7a8d69fa763802c73b7d4595b52604aa *inst/extdata/sqlite.json
+f8c08a39f3af8c02c8fa3256a7f1ba37 *man/DB.Rd
+2aef9fa6614136a14509c17840190009 *man/DemoDB.Rd
+d2e391af6f6abbc7338982d4abc95aff *man/db.new.Rd
+e33dff0dd07d4a7b98bf772f234d8e75 *man/db.r.Rd
+8d1d01d90a6e96f30a4d01899f77ece0 *man/queries.mysql.Rd
+36483f281b8e6ebba0813b2bcfa471e4 *man/queries.pg.Rd
+801f1aae274e8ee22e8b58d7d48a4009 *man/queries.redshift.Rd
+7b311103305eb1663d75092acd199b20 *man/queries.sqlite.Rd
