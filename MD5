@@ -1,6 +1,6 @@
-2cfad323c8088094c72ff9e9ed7bdeab *DESCRIPTION
+e211eef295cfedc736ebee231b1fd591 *DESCRIPTION
 515fe0495b44fb9cace1f207ce21e8aa *NAMESPACE
-d3735e24565dee4d0402c903003e0f7f *R/db.r
+93a81930b79ce75bb1a415de8d1da4af *R/db.r
 500bd3303f4bd62929eb40cfd478e5e3 *R/queries.r
 9ebece0dad4a7ee91b9ce97a12c04e26 *inst/extdata/chinook.sqlite
 0ac3febbb0fd24af6c33d1d11e34cb93 *inst/extdata/mysql.json
